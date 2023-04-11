@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+main div {
+    border: 1px solid;
+}
+
+#display {
+    display: flex;
+    align-items: center;
+    border: 2px solid;
+    width: 290px;
+    height: 60px;
+    border-radius: 10px;
+    font-size: 30px;
+
+}
+tr td  button {
+    border: solid 1px;
+    padding: 30px;
+    border-radius: 7px;
+    color: white;
+    background: rgb(21, 19, 19); 
+        
+}
